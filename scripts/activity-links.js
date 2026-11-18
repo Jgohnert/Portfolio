@@ -1,5 +1,5 @@
-const mainURL = 'https://jgohnert.github.io/wdd330/';
-const linksURL = 'https://jgohnert.github.io/wdd330/data/links.json';
+const mainURL = 'https://jgohnert.github.io/Portfolio/';
+const linksURL = 'https://jgohnert.github.io/Portfolio/data/links.json';
 
 const allActivities = document.querySelector('#activity');
 
