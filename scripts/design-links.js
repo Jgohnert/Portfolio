@@ -1,5 +1,5 @@
 
-const designLinksURL = 'https://jgohnert.github.io/wdd330/data/design-links.json';
+const designLinksURL = 'https://jgohnert.github.io/portfolio/data/design-links.json';
 
 const allDesignProjects = document.querySelector('#designProjects');
 
