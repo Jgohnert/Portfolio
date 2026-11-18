@@ -6,7 +6,7 @@ const allDesignProjects = document.querySelector('#designProjects');
 async function getProjectLinks() {
     const response = await fetch(designLinksURL);
     const data = await response.json();
-    const projectActivities = data.projects;
+    const projectActivities = data.design;
 
     displayDesignProjects(projectActivities);
 }
@@ -25,7 +25,7 @@ const displayDesignProjects = (projectActivities) => {
             linkList.classList.add('project-link');
             linkList.target = '_blank';
 
-            allProjects.appendChild(linkList);
+            allDesignProjects.appendChild(linkList);
         });
 
     });
