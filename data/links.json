@@ -1,0 +1,132 @@
+{
+    "webclasses": [
+        {
+            "wdd": "330",
+            "links": [
+                {
+                    "url": "examples/w02-modify-document.html",
+                    "title": "W02 - Modifying documents"
+                },
+                {
+                    "url": "examples/w02-storage.html",
+                    "title": "W02 - localStorage and sessionStorage"
+                },
+                {
+                    "url": "examples/w03-web-api.html",
+                    "title": "W03 - Web APIs"
+                },
+                {
+                    "url": "examples/w03-settimeout-setinterval.html",
+                    "title": "W03 - setTimeout and setInterval"
+                },
+                {
+                    "url": "examples/w04-try-catch.html",
+                    "title": "W04 - Error handling"
+                },
+                {
+                    "url": "examples/w05-fetch.html",
+                    "title": "W05 - Fetch"
+                },
+                {
+                    "url": "examples/w05-rest-parameters.html",
+                    "title": "W05 - Rest Parameters"
+                },
+                {
+                    "url": "examples/w06-form-properties.html",
+                    "title": "W06 - Form Properties"
+                },
+                {
+                    "url": "examples/w06-formdata-objects.html",
+                    "title": "W06 - Formdata Objects"
+                },
+                {
+                    "url": "examples/w07-css-animations.html",
+                    "title": "W07 - CSS Animations"
+                },
+                {
+                    "url": "examples/w07-object-method-this.html",
+                    "title": "W07 - Object Method \"this\""
+                },
+                {
+                    "url": "examples/wdd330-notes/w09-challenge-proposals.docx",
+                    "title": "W09 - Challenge Proposal"
+                },
+                {
+                    "url": "examples/w09-currying.html",
+                    "title": "W09 - Currying"
+                },
+                {
+                    "url": "examples/w09-drawing-graphics.html",
+                    "title": "W09 - Graphics"
+                },
+                {
+                    "url": "examples/w09-variable-scope-closure.html",
+                    "title": "W09 - variable Scope Closure"
+                }
+            ]
+        },
+        {
+            "wdd": "230",
+            "links": [
+                {
+                    "url": "https://jgohnert.github.io/wdd230/lesson03/chamber-site-plan.html",
+                    "title": "Chamber of Commerse Site Plan"
+                }
+            ]
+        },
+        {
+            "wdd": "130",
+            "links": [
+                {
+                    "url": "https://jgohnert.github.io/wdd-130/wwr/planning/site-plan-rafting.html",
+                    "title": "White Water Rafting Site Plan"
+                },
+                {
+                    "url": "https://jgohnert.github.io/wdd-130/colutyma-productions/site-plan.html",
+                    "title": "COLUTYMA Productions Site-plan"
+                },
+                {
+                    "url": "https://jgohnert.github.io/wdd-130/positioning/positioning.html",
+                    "title": "Positioning Using CSS"
+                },
+                {
+                    "url": "https://jgohnert.github.io/wdd-130/web-component/component.html",
+                    "title": "Basic Website Components"
+                }
+            ]
+        }
+    ],
+
+    "codeclasses": [
+        {
+            "cse": "121b",
+            "links": [
+                {
+                    "url": "https://jgohnert.github.io/cse121b/inclass/index.html",
+                    "title": "In Class Activities"
+                },
+                {
+                    "url": "https://jgohnert.github.io/cse121b/jspractice/index.html",
+                    "title": "JS Practice"
+                },
+                {
+                    "url": "https://jgohnert.github.io/cse121b/week02/task2.html",
+                    "title": "W02 - Task"
+                },
+                {
+                    "url": "https://jgohnert.github.io/cse121b/week03/task3.html",
+                    "title": "W03 - Task"
+                },
+                {
+                    "url": "https://jgohnert.github.io/cse121b/week04/task4.html",
+                    "title": "W04 - Task"
+                },
+                {
+                    "url": "https://jgohnert.github.io/cse121b/week05/student_files/task5.html",
+                    "title": "W05 - Task"
+                }
+            ]
+
+        }
+    ]
+}

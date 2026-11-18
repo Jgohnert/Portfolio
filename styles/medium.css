@@ -1,0 +1,56 @@
+@media (min-width: 40em) {
+
+    header {
+        padding-bottom: 15px;
+    }
+
+    #menu {
+		display: none; 
+	}
+
+    .navigation {
+        margin-top: 50px;
+		flex-direction: row;
+	}
+
+	.navigation a {
+		display: block;
+		flex: 1 1 100%;
+	}
+
+    h2 {
+        font-size: 35px;
+    }
+    
+    section {
+        font-size: 20px;
+        padding: 5% 5% 5% 0%;
+    }
+
+    .activity {
+        padding-left: 0%;
+    }
+
+    ul {
+        column-count: 2;
+        column-fill: balance;
+    }
+
+    li {
+        break-inside: avoid;
+        list-style-position: inside;
+    }
+
+    ul > li {
+        margin-bottom: 1rem;
+    }
+
+    li:first-child {
+        margin-top: 0;
+    }
+
+    ol {
+        text-indent: -1em;
+    }
+
+}
