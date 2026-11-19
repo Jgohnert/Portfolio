@@ -38,7 +38,7 @@ const displaySlides = (slides) => {
 
         const linkText = document.createElement('span');
         linkText.classList.add('slide-link-text');
-        linkText.textContent = (slide.linkText || 'View the prototype') + ' (opens in a new tab)';
+        linkText.textContent = (slide.linkText || 'View the prototype');
 
         link.append(img, linkText);
         caseStudySection.appendChild(link);

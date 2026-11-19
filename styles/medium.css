@@ -53,4 +53,24 @@
         text-indent: -1em;
     }
 
+    #case-study {
+        padding: 5%;
+    }
+
+    #case-study > img,
+    #case-study > a {
+        width: 88%;
+        margin-top: -40px;
+        transform: translateX(10%);
+    }
+
+    #case-study > img:nth-child(odd),
+    #case-study > a:nth-child(odd) {
+      transform: translateX(-10%);
+    }
+
+    #case-study > h2 + * {
+        margin-top: 0;
+    }
+
 }
