@@ -1,7 +1,7 @@
 
 const designLinksURL = 'https://jgohnert.github.io/Portfolio/data/design-links.json';
 
-const allDesignProjects = document.querySelector('#designProjects');
+const allDesignProjects = document.querySelector('#design-projects');
 
 async function getProjectLinks() {
     const response = await fetch(designLinksURL);

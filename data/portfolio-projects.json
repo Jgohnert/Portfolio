@@ -1,0 +1,82 @@
+{
+    "gogaming": [
+        {
+            "images": [
+                {
+                    "img": "images/gogaming-app-mobile/Slide1.PNG",
+                    "alt": "GoGaming App by Joanna Gohnert"
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide2.PNG",
+                    "alt": "GoGaming is an e-commerce app that lets users buy gaming products."
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide3.PNG",
+                    "alt": "Make it simple for users to read trusted reviews and buy products confidently on the go."
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide4.PNG",
+                    "alt": "To conduct my research, I interviewed five people I play games with."
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide5.PNG",
+                    "alt": "Persona Jeff. Jeff is a busy gamer and parent who needs a quick way to find durable gaming gear because his young kids wear out equipment fast."
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide6.PNG",
+                    "alt": "This user journey map shows the path Jeff takes to buy a gaming chair durable enough for his young kids."
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide7.PNG",
+                    "alt": "Paper wireframes. My goal was to keep the design simple and compact so users could quickly find what they need on a small screen."
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide8.PNG",
+                    "alt": "Digital wireframes. I added a hamburger menu that users can open and close from any screen. It keeps the layout compact while giving users access to product search options from anywhere in the app."
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide9.PNG",
+                    "alt": "Digital wireframes. Products show only an image and name, so each listing takes up little space and users can quickly skim to find what they want."
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide10.PNG",
+                    "alt": "Low-fidelity prototype. The user taps the hamburger menu, selects a product category, chooses a product, then buys it.",
+                    "link": "https://www.figma.com/proto/7E0XrBRSNooT6gby0GWBRf/Game-Products?node-id=261-655&t=v0oDzOocv8wEQ2CP-1&scaling=min-zoom&content-scaling=fixed&page-id=261%3A654&starting-point-node-id=261%3A655&show-proto-sidebar=1"
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide11.PNG",
+                    "alt": "I conducted a usability study with five participants of various ages."
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide12.PNG",
+                    "alt": "Mockups. Based on participant feedback, I switched to a single column and stacked the menu options vertically."
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide13.PNG",
+                    "alt": "Mockups. Following participant suggestions, I changed the product list from two columns to one and moved the search bar out of the hamburger menu so it’s always visible."
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide14.PNG",
+                    "alt": "Mockups."
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide15.PNG",
+                    "alt": "high-fidelity prototype.",
+                    "link": "https://www.figma.com/proto/7E0XrBRSNooT6gby0GWBRf/Game-Products?node-id=262-1242&t=UGGzDDaEebT1VAyz-1&scaling=scale-down&content-scaling=fixed&page-id=262%3A1241&starting-point-node-id=270%3A1342."
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide16.PNG",
+                    "alt": "Accessibility considerations. Everything users can tap is at least 44 PX. All content sits in a single column. All text have good contrast ratios against its background."
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide17.PNG",
+                    "alt": "Takeaways. It’s easy to overthink a design for small screens without user feedback."
+                },
+                {
+                    "img": "images/gogaming-app-mobile/Slide18.PNG",
+                    "alt": "To Thank you for reading! If you have feedback or questions, I’d love to hear from you. Feel free to contact me using this email and phone. joannagohnert@gmail.com. 5077660547."
+                }
+            ]
+        }
+    ]
+}

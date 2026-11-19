@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
 
 :root {
-    --primary-color: #72BDA3;
-    --secondary-color: #3B322C;
-    --accent-color1: #5e8c61;
-    --accent-color2: #4e6151;
-    --accent-color3: #f1fff6;
+    --primary-color: #BFD5E2;
+    --secondary-color: #2D2429;
+    --accent-color1: #9498B3;
+    --accent-color2: #6B6080;
+    --accent-color3: #EFF9FB;
     --border: solid 2px var(--accent-color2);
     --main-font: "Signika Negative", sans-serif, serif;
 }
@@ -99,7 +99,19 @@ section {
 }
 
 #projects a {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+#design-projects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0%;
+    padding-bottom: 40px;
+}
+
+#design-projects a {
+    margin-bottom: 10px;
 }
 
 li {
