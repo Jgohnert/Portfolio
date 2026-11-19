@@ -13,21 +13,28 @@ async function getProjectLinks() {
 
 const displayDesignProjects = (projectActivities) => {
     projectActivities.forEach((project) => {
-
         project.links.forEach((link) => {
-            let linkList = document.createElement('a');
+            const card = document.createElement('a');
+            card.href = link.url.startsWith('http') ? link.url : 'https://' + link.url;
+            card.target = '_blank';
+            card.rel = 'noopener';
+            card.classList.add('project-link');
 
-            linkList.href = link.url.startsWith('http')
-                ? link.url
-                : 'https://' + link.url;
+            if (link.image) {
+                const img = document.createElement('img');
+                img.src = link.image;
+                img.alt = '';
+                img.loading = 'lazy';
+                card.appendChild(img);
+            }
 
-            linkList.textContent = link.title;
-            linkList.classList.add('project-link');
-            linkList.target = '_blank';
+            const title = document.createElement('span');
+            title.classList.add('project-title');
+            title.textContent = link.title;
+            card.appendChild(title);
 
-            allDesignProjects.appendChild(linkList);
+            allDesignProjects.appendChild(card);
         });
-
     });
 };
 
