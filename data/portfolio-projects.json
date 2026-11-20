@@ -1,5 +1,5 @@
 {
-    "gogaming": [
+    "gogaming-mobile": [
         {
             "images": [
                 {
@@ -74,6 +74,86 @@
                 },
                 {
                     "img": "images/gogaming-app-mobile/Slide18.PNG",
+                    "alt": "To Thank you for reading! If you have feedback or questions, I’d love to hear from you. Feel free to contact me using this email and phone. joannagohnert@gmail.com. 5077660547."
+                }
+            ]
+        }
+    ],
+    "gogaming-website": [
+        {
+            "images": [
+                {
+                    "img": "images/gogaming-app/Slide1.PNG",
+                    "alt": "GoGaming site by Joanna Gohnert"
+                },
+                {
+                    "img": "images/gogaming-app/Slide2.PNG",
+                    "alt": "GoGaming is an e-commerce website that lets users buy gaming products."
+                },
+                {
+                    "img": "images/gogaming-app/Slide3.PNG",
+                    "alt": "Make it simple for users to read reviews and buy products with confidence."
+                },
+                {
+                    "img": "images/gogaming-app/Slide4.PNG",
+                    "alt": "To conduct my research, I interviewed people I play games with."
+                },
+                {
+                    "img": "images/gogaming-app/Slide5.PNG",
+                    "alt": "Lukas is a game reviewer and writer who needs a reliable way to verify product reviews so he can be confident in his purchases."
+                },
+                {
+                    "img": "images/gogaming-app/Slide6.PNG",
+                    "alt": "This user journey map follows Lukas as he shops for a headset that meets his gaming and audio needs."
+                },
+                {
+                    "img": "images/gogaming-app/Slide7.PNG",
+                    "alt": "Paper wireframes. My goal was to give users access to high-quality gaming products. I wanted an open layout that lets users see many products on one screen."
+                },
+                {
+                    "img": "images/gogaming-app/Slide8.PNG",
+                    "alt": "Digital wireframes. I wanted a simple but sharp layout that catches users’ attention."
+                },
+                {
+                    "img": "images/gogaming-app/Slide9.PNG",
+                    "alt": "Digital wireframes. For this digital wireframe, I wanted a page where users could see an overview of many products at once."
+                },
+                {
+                    "img": "images/gogaming-app/Slide10.PNG",
+                    "alt": "Low-fidelity prototype. The user searches for a product, selects it, clicks Purchase, enters shipping and card information, then confirms the purchase.",
+                    "link": "https://www.figma.com/proto/7E0XrBRSNooT6gby0GWBRf/Game-Products?node-id=5-3&t=dUa5IaxQ2bvPjCAb-1&scaling=contain&content-scaling=fixed&page-id=5%3A2&starting-point-node-id=5%3A3"
+                },
+                {
+                    "img": "images/gogaming-app/Slide11.PNG",
+                    "alt": "I conducted a usability study on the low-fidelity prototype."
+                },
+                {
+                    "img": "images/gogaming-app/Slide12.PNG",
+                    "alt": "Mockups. My goal was to make actions clearer."
+                },
+                {
+                    "img": "images/gogaming-app/Slide13.PNG",
+                    "alt": "Mockups. I added a back arrow to make navigation easier and a filter button to help users find what they’re looking for."
+                },
+                {
+                    "img": "images/gogaming-app/Slide14.PNG",
+                    "alt": "Mockups."
+                },
+                {
+                    "img": "images/gogaming-app/Slide15.PNG",
+                    "alt": "high-fidelity prototype.",
+                    "link": "https://www.figma.com/proto/7E0XrBRSNooT6gby0GWBRf/Game-Products?node-id=61-5&p=f&t=vLDxejE9ZNqVjQBl-1&scaling=min-zoom&content-scaling=fixed&page-id=55%3A2&starting-point-node-id=61%3A5&show-proto-sidebar=1."
+                },
+                {
+                    "img": "images/gogaming-app/Slide16.PNG",
+                    "alt": "Accessibility considerations. With the site’s bright colors, I made contrast and legibility a priority. I kept the most important actions near the top of each page. The menu changes color on hover, showing users they can interact with it."
+                },
+                {
+                    "img": "images/gogaming-app/Slide17.PNG",
+                    "alt": "Takeaways. There’s a lot I can miss when designing on my own."
+                },
+                {
+                    "img": "images/gogaming-app/Slide18.PNG",
                     "alt": "To Thank you for reading! If you have feedback or questions, I’d love to hear from you. Feel free to contact me using this email and phone. joannagohnert@gmail.com. 5077660547."
                 }
             ]

@@ -1,13 +1,17 @@
-const caseStudyURL = 'https://jgohnert.github.io/Portfolio/data/portfolio-projects.json';
+const caseStudyURL = 'data/portfolio-projects.json';
 const caseStudySection = document.querySelector('#case-study');
 
 async function getCaseStudy() {
     try {
-        const response = await fetch(caseStudyURL);
+        const response = await fetch(caseStudyURL, { cache: 'no-cache' });
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const data = await response.json();
 
-        const slides = data.gogaming.flatMap((project) => project.images);
+        const studyName = caseStudySection.dataset.study;
+        const study = data[studyName];
+        if (!study) throw new Error(`No case study called "${studyName}" in the JSON`);
+
+        const slides = study.flatMap((project) => project.images);
         displaySlides(slides);
     } catch (error) {
         console.error('Could not load the case study:', error);
